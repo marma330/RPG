@@ -1,11 +1,11 @@
 Package: RPG
 Type: Package
-Title: Algorithems
+Title: Euclidean and Dijkstra Algorithms
 Version: 0.1.0
-Author: Pedram ,Mariano and Roshni
+Author: Pedram, Mariano and Roshni
 Maintainer: The package maintainer <pedka102@student.liu.se>
-Description: cool stuff
-License: What license is it under?
+Description: Finding the greatest common divisor of two numbers and calculating the shortest path between nodes.
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.0
