@@ -1,11 +1,13 @@
-
-
-
-
-
-
-
-
+#' Shortest Path 
+#' 
+#' @param graph is A data frame
+#' @param initial_nod is a number for starting nod 
+#' @return  the shortest path between the selected nod and all other nods
+#' @examples 
+#' dijkastra (wiki_graph , 3)
+#' dijkastra (wiki_graph , 5)
+#' @references
+#'(https://en.wikipedia.org/wiki/Dijkstra%27s algorithm)
 
 
 
@@ -36,10 +38,6 @@ unvisited_set<-unvisited_set[-1]
 }
 return(distance)
 }
-
-
-
-
 
 
 
