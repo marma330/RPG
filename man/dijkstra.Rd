@@ -9,7 +9,7 @@ dijkstra(graph, initial_node)
 \arguments{
 \item{graph}{is A data frame}
 
-\item{initial_nod}{is a number for starting nod}
+\item{initial_node}{is a number for starting nod}
 }
 \value{
 the shortest path between the selected nod and all other nods

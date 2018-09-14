@@ -1,7 +1,7 @@
 #' Shortest Path 
 #' 
 #' @param graph is A data frame
-#' @param initial_nod is a number for starting nod 
+#' @param initial_node is a number for starting nod 
 #' @return  the shortest path between the selected nod and all other nods
 #' @examples 
 #' dijkstra (wiki_graph , 3)
