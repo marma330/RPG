@@ -16,6 +16,8 @@
 dijkstra<-function(graph,initial_node)
 {
 unvisited_set<-unique(graph$v1) #in the graphic is like puting it to white/red
+stopifnot((initial_node)< length(unvisited_set))
+          
 
 distance<-vector(length=6) #this is lil blue number in the visual one
 distance[initial_node]<-0
