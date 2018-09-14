@@ -8,6 +8,7 @@
 #' dijkstra (wiki_graph , 5)
 #' @references
 #'(https://en.wikipedia.org/wiki/Dijkstra%27s algorithm)
+#'@export 
 
 
 

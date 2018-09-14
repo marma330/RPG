@@ -5,7 +5,7 @@
 #' @return the Greatest common divisor between two numbers 
 #' @references 
 #' https://en.wikipedia.org/wiki/Euclidean algorithm
-#' 
+#' @export 
 
 
 
